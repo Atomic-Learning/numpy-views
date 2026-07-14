@@ -11,6 +11,8 @@
     ],
     "duration": 2,
     "prerequisites": [
+        "programming-objects-types",
+        "numpy-assignment",
         "numpy-arrays",
         "programming-methods"
     ],
