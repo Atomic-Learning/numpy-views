@@ -1,22 +1,24 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "NumPy: Views",
+    "slug": "numpy-views",
+    "description": "How views act as different objects which access the same NumPy data.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "python",
+        "numpy"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
+        "numpy-arrays",
+        "programming-methods"
     ],
     "related": [
-        "",
-        ""
+        "numpy-reshape",
+        "numpy-slicing"
+    ],
+    "python_packages": [
+        "numpy"
     ]
 }
