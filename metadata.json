@@ -12,7 +12,7 @@
     "duration": 2,
     "prerequisites": [
         "programming-objects-types",
-        "numpy-assignment",
+        "numpy-item-assignment",
         "numpy-arrays",
         "programming-methods"
     ],
